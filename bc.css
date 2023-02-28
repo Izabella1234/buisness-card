@@ -1,0 +1,32 @@
+body {
+  margin: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.avatar {
+  width: 150px;
+}
+
+.card {
+  padding: 20px;
+  width: 400px;
+  margin: 0px auto;
+  display: flex;
+  justify-content: space-around;
+  background-color: #fefae0;
+  color: #d4a373;
+  border-bottom: 10px solid #d4a373;
+  border-radius: 15px;
+}
+
+p {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
+
+h3 {
+  text-shadow: 1px 1px 1px #99521e;
+}
